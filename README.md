@@ -2,7 +2,7 @@
 
 # 🌊 Hey, I'm Soumya.
 
-### *(pronounced: show-myo-kawn-toh — don't worry, most people just say "Soumya")*
+### *(pronounced: show-myo — don't worry, most people just say "Soumya")*
 
 **Florence, Italy** · MSc Finance & Risk Management · *exp. July 2026*
 

@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soumyakantabera-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyakantabera)
 [![GitHub](https://img.shields.io/badge/GitHub-soumyakantabera-181717?style=flat&logo=github&logoColor=white)](https://github.com/soumyakantabera)
-[![Email](https://img.shields.io/badge/Email-bera.soumyakanta%40yahoo.com-6001D2?style=flat&logo=envelope&logoColor=white)](mailto:bera.soumyakanta@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-bera.soumyakanta%40yahoo.com-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:bera.soumyakanta@yahoo.com)
 [![Location](https://img.shields.io/badge/Based_in-Florence,_Italy-009246?style=flat&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -82,94 +82,21 @@ Currently finishing a thesis on **inventory buildup as an early warning signal f
 <details>
 <summary><strong>🏦 13 Forage simulations — the highlights reel</strong></summary>
 
-> Showcasing hands-on virtual experience programs from top firms. Each GitHub repo contains full deliverables, models, reports, and code from the simulation!
-
-<table>
-<tr>
-<th>Logo</th>
-<th>Firm</th>
-<th>What I did</th>
-<th>GitHub</th>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/jpmorgan" width="42" alt="JPMorgan"></td>
-<td><strong>JPMorgan IB</strong></td>
-<td>DCF model, M&A target screening, accretion/dilution analysis, auction process memo</td>
-<td><a href="https://github.com/soumyakantabera/theforage-jpmorgan-investment-banking">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
-<td><strong>Citi IB</strong></td>
-<td>Comparable company analysis, 5-year revenue forecast, enterprise value summary</td>
-<td><a href="https://github.com/soumyakantabera/theforage-citi-investment-banking">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/bankofamerica" width="42" alt="Bank of America"></td>
-<td><strong>BofA IB</strong></td>
-<td>SWOT + DCF for Webflix, 10-K analysis, ECM/DCM capital structure options</td>
-<td><a href="https://github.com/soumyakantabera/theforage-bofa-investment-banking">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
-<td><strong>Goldman Sachs Risk</strong></td>
-<td>Quantitative risk assessment, real estate portfolio due diligence</td>
-<td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-risk">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/standardchartered" width="42" alt="Standard Chartered"></td>
-<td><strong>Standard Chartered</strong></td>
-<td>Annual credit review, financial health + industry analysis, credit risk exposure</td>
-<td>—</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/ey" width="42" alt="EY"></td>
-<td><strong>EY Forensic & Integrity</strong></td>
-<td>Fraud investigation simulation, fraud triangle, financial crime indicators</td>
-<td><a href="https://github.com/soumyakantabera/theforage-ey-forensic-and-integrity-services">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/jpmorgan" width="42" alt="JPMorgan"></td>
-<td><strong>JPMorgan QR</strong></td>
-<td>Python + financial mathematics → quant models for valuation & portfolio optimisation</td>
-<td>—</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
-<td><strong>Citi Finance</strong></td>
-<td>KPI dashboards, sales forecasting, annual budgeting, FP&A workflow</td>
-<td><a href="https://github.com/soumyakantabera/theforage-citi-finance">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
-<td><strong>Goldman Sachs Controllers</strong></td>
-<td>P&L reporting, ledger reconciliation, regulatory compliance</td>
-<td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-controllers">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/bcg" width="42" alt="BCG"></td>
-<td><strong>BCG Strategy</strong></td>
-<td>Profitability analysis (Copier Co.), hypothesis-driven market synthesis</td>
-<td><a href="https://github.com/soumyakantabera/theforage-bcg-strategy-consulting">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/kpmg" width="42" alt="KPMG"></td>
-<td><strong>KPMG Advisory</strong></td>
-<td>AI-driven risk advisory, internal controls assessment, compliance gap analysis</td>
-<td><a href="https://github.com/soumyakantabera/theforage-kpmg-advisory">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
-<td><strong>Goldman Sachs Operations</strong></td>
-<td>Wealth management ops, settlement resolution, process improvement</td>
-<td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-operations">🔗 Repo</a></td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
-<td><strong>Citi Services</strong></td>
-<td>Credit product solution, Treasury & Trade Solutions, risk hedging strategy</td>
-<td><a href="https://github.com/soumyakantabera/theforage-citi-services">🔗 Repo</a></td>
-</tr>
-</table>
+| Firm | What I did |
+|------|-----------|
+| **JPMorgan IB** | DCF model, M&A target screening, accretion/dilution analysis, auction process memo |
+| **Citi IB** | Comparable company analysis, 5-year revenue forecast, enterprise value summary |
+| **BofA IB** | SWOT + DCF for Webflix, 10-K analysis, ECM/DCM capital structure options |
+| **Goldman Sachs Risk** | Quantitative risk assessment, real estate portfolio due diligence |
+| **Standard Chartered** | Annual credit review, financial health + industry analysis, credit risk exposure |
+| **EY Forensic & Integrity** | Fraud investigation simulation, fraud triangle, financial crime indicators |
+| **JPMorgan QR** | Python + financial mathematics → quant models for valuation & portfolio optimisation |
+| **Citi Finance** | KPI dashboards, sales forecasting, annual budgeting, FP&A workflow |
+| **Goldman Sachs Controllers** | P&L reporting, ledger reconciliation, regulatory compliance |
+| **BCG Strategy** | Profitability analysis (Copier Co.), hypothesis-driven market synthesis |
+| **KPMG Advisory** | AI-driven risk advisory, internal controls assessment, compliance gap analysis |
+| **Goldman Sachs Operations** | Wealth management ops, settlement resolution, process improvement |
+| **Citi Services** | Credit product solution, Treasury & Trade Solutions, risk hedging strategy |
 
 </details>
 
@@ -224,7 +151,7 @@ Living in Florence has a way of forcing Italian on you. The espresso helps with 
 If you're hiring Finance / FP&A / Data / BI Analyst interns in the EU (🇳🇱 Netherlands or 🇮🇪 Ireland especially) — or if you just want to talk about inventory cycles and valuation resets at uncomfortable length — drop me a line.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyakantabera)
-[![Email](https://img.shields.io/badge/Send_an_Email-6001D2?style=for-the-badge&logo=envelope&logoColor=white)](mailto:bera.soumyakanta@yahoo.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:bera.soumyakanta@yahoo.com)
 
 ---
 

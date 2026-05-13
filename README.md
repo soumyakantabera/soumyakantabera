@@ -92,79 +92,79 @@ Currently finishing a thesis on **inventory buildup as an early warning signal f
 <th>GitHub</th>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/jpmorganchase.com" width="36" alt="JPMorgan"></td>
+<td><img src="https://cdn.simpleicons.org/jpmorgan" width="42" alt="JPMorgan"></td>
 <td><strong>JPMorgan IB</strong></td>
 <td>DCF model, M&A target screening, accretion/dilution analysis, auction process memo</td>
 <td><a href="https://github.com/soumyakantabera/theforage-jpmorgan-investment-banking">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/citigroup.com" width="36" alt="Citi"></td>
+<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
 <td><strong>Citi IB</strong></td>
 <td>Comparable company analysis, 5-year revenue forecast, enterprise value summary</td>
 <td><a href="https://github.com/soumyakantabera/theforage-citi-investment-banking">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/bankofamerica.com" width="36" alt="Bank of America"></td>
+<td><img src="https://cdn.simpleicons.org/bankofamerica" width="42" alt="Bank of America"></td>
 <td><strong>BofA IB</strong></td>
 <td>SWOT + DCF for Webflix, 10-K analysis, ECM/DCM capital structure options</td>
 <td><a href="https://github.com/soumyakantabera/theforage-bofa-investment-banking">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/goldmansachs.com" width="36" alt="Goldman Sachs"></td>
+<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
 <td><strong>Goldman Sachs Risk</strong></td>
 <td>Quantitative risk assessment, real estate portfolio due diligence</td>
 <td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-risk">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/sc.com" width="36" alt="Standard Chartered"></td>
+<td><img src="https://cdn.simpleicons.org/standardchartered" width="42" alt="Standard Chartered"></td>
 <td><strong>Standard Chartered</strong></td>
 <td>Annual credit review, financial health + industry analysis, credit risk exposure</td>
 <td>—</td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/ey.com" width="36" alt="EY"></td>
+<td><img src="https://cdn.simpleicons.org/ey" width="42" alt="EY"></td>
 <td><strong>EY Forensic & Integrity</strong></td>
 <td>Fraud investigation simulation, fraud triangle, financial crime indicators</td>
 <td><a href="https://github.com/soumyakantabera/theforage-ey-forensic-and-integrity-services">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/jpmorganchase.com" width="36" alt="JPMorgan"></td>
+<td><img src="https://cdn.simpleicons.org/jpmorgan" width="42" alt="JPMorgan"></td>
 <td><strong>JPMorgan QR</strong></td>
 <td>Python + financial mathematics → quant models for valuation & portfolio optimisation</td>
 <td>—</td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/citigroup.com" width="36" alt="Citi"></td>
+<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
 <td><strong>Citi Finance</strong></td>
 <td>KPI dashboards, sales forecasting, annual budgeting, FP&A workflow</td>
 <td><a href="https://github.com/soumyakantabera/theforage-citi-finance">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/goldmansachs.com" width="36" alt="Goldman Sachs"></td>
+<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
 <td><strong>Goldman Sachs Controllers</strong></td>
 <td>P&L reporting, ledger reconciliation, regulatory compliance</td>
 <td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-controllers">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/bcg.com" width="36" alt="BCG"></td>
+<td><img src="https://cdn.simpleicons.org/bcg" width="42" alt="BCG"></td>
 <td><strong>BCG Strategy</strong></td>
 <td>Profitability analysis (Copier Co.), hypothesis-driven market synthesis</td>
 <td><a href="https://github.com/soumyakantabera/theforage-bcg-strategy-consulting">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/kpmg.com" width="36" alt="KPMG"></td>
+<td><img src="https://cdn.simpleicons.org/kpmg" width="42" alt="KPMG"></td>
 <td><strong>KPMG Advisory</strong></td>
 <td>AI-driven risk advisory, internal controls assessment, compliance gap analysis</td>
 <td><a href="https://github.com/soumyakantabera/theforage-kpmg-advisory">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/goldmansachs.com" width="36" alt="Goldman Sachs"></td>
+<td><img src="https://cdn.simpleicons.org/goldmansachs" width="42" alt="Goldman Sachs"></td>
 <td><strong>Goldman Sachs Operations</strong></td>
 <td>Wealth management ops, settlement resolution, process improvement</td>
 <td><a href="https://github.com/soumyakantabera/theforage-goldman-sachs-operations">🔗 Repo</a></td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/citigroup.com" width="36" alt="Citi"></td>
+<td><img src="https://cdn.simpleicons.org/citi" width="42" alt="Citi"></td>
 <td><strong>Citi Services</strong></td>
 <td>Credit product solution, Treasury & Trade Solutions, risk hedging strategy</td>
 <td><a href="https://github.com/soumyakantabera/theforage-citi-services">🔗 Repo</a></td>

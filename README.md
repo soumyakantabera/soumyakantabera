@@ -3,7 +3,6 @@
 <img src="assets/header.svg" alt="Soumyakanta Bera — Finance · Analytics · Intelligence" width="100%"/>
 
 <br>
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soumyakantabera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyakantabera)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-bera.soumyakanta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bera.soumyakanta@yahoo.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-soumyakantabera-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyakantabera)&nbsp;

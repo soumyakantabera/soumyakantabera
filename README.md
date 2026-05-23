@@ -94,7 +94,7 @@ I don't just say "I know investment banking." I've built the models, written the
 
 Built DCF models for 3 M&A targets from scratch. Developed a full target screening framework, ran accretion/dilution analysis and competitor-bid scenarios, then distilled everything into a two-page executive auction summary.
 
-[🔗 View Project](https://github.com/soumyakantabera/JPMorgan-IB-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-jpmorgan-investment-banking)
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ Built DCF models for 3 M&A targets from scratch. Developed a full target screeni
 
 Comparable company analysis covering 8 peers. Five-year revenue forecasts with 3 scenario cases. Full company profiles with enterprise value breakdowns — everything a deal team needs to say "yes" or "not at that price."
 
-[🔗 View Project](https://github.com/soumyakantabera/Citi-IB-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-citi-investment-banking)
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ Comparable company analysis covering 8 peers. Five-year revenue forecasts with 3
 
 SWOT + DCF for Webflix. Tore apart 10-K filings of 2 targets for M&A screening. Then evaluated ECM vs DCM capital structure options — because the deal is only as good as the funding behind it.
 
-[🔗 View Project](https://github.com/soumyakantabera/BofA-IB-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-bofa-investment-banking)
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ SWOT + DCF for Webflix. Tore apart 10-K filings of 2 targets for M&A screening. 
 
 Built and maintained dashboards tracking 12 core business KPIs. Monthly credit-card sales forecasts. Supported the annual budgeting cycle. The unglamorous backbone of FP&A — and I enjoy it more than I probably should.
 
-[🔗 View Project](https://github.com/soumyakantabera/Citi-Finance-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-citi-finance)
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ Built and maintained dashboards tracking 12 core business KPIs. Monthly credit-c
 
 Designed a tailored credit card product for business clients. Structured a Treasury & Trade Solutions proposal. Built a risk hedging strategy using derivatives — because revenue means nothing if FX eats it.
 
-[🔗 View Project](https://github.com/soumyakantabera/Citi-Services-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-citi-services)
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Designed a tailored credit card product for business clients. Structured a Treas
 
 Monthly P&L reporting and ledger reconciliation across 4 business units. Regulatory compliance checks. Prepared financial data packs for senior stakeholders — the people who ask "why is this number different from last month?" at 6pm on a Friday.
 
-[🔗 View Project](https://github.com/soumyakantabera/GS-Controllers-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-goldman-sachs-controllers)
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Monthly P&L reporting and ledger reconciliation across 4 business units. Regulat
 
 Led the annual credit review of Green Solutions Manufacturing. Financial health analysis using 15+ ratios with industry benchmarking. Assessed credit risk exposure and presented findings to the credit officer. The kind of work where one wrong ratio ruins someone's Thursday.
 
-[🔗 View Project](https://github.com/soumyakantabera/StanChart-Credit-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-standard-chartered-credit-analyst)
 
 </td>
 </tr>
@@ -206,7 +206,7 @@ Led the annual credit review of Green Solutions Manufacturing. Financial health 
 
 Full fraud investigation simulation on a $2.3M case. Applied the fraud triangle to 200+ financial documents. Found 7 financial crime indicators and mapped regulatory exposure. Forensic accounting is basically being a detective who's really into spreadsheets.
 
-[🔗 View Project](https://github.com/soumyakantabera/EY-Forensic-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-ey-forensic-and-integrity-services)
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ Full fraud investigation simulation on a $2.3M case. Applied the fraud triangle 
 
 Quantitative risk assessment across 12 client profiles and a €450M real estate portfolio. Credit risk exposures via structured due diligence and stress testing. Because "what's the worst that could happen?" is actually a valid analytical question.
 
-[🔗 View Project](https://github.com/soumyakantabera/GS-Risk-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-goldman-sachs-risk)
 
 </td>
 </tr>
@@ -241,7 +241,7 @@ Quantitative risk assessment across 12 client profiles and a €450M real estate
 
 Built 4 quantitative valuation models and portfolio optimisation algorithms using Python and financial mathematics. Statistical analysis on 50,000+ real market data points. The closest I get to "coding" — and it's still about money.
 
-[🔗 View Project](https://github.com/soumyakantabera/JPMorgan-QR-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-jpmorgan-quantitative-research)
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ Built 4 quantitative valuation models and portfolio optimisation algorithms usin
 
 Streamlined wealth management ops for 3 client segments. Resolved 28 settlement issues, managed €12M in asset transfers, and identified 5 process improvements. Operations isn't sexy — until something breaks and everyone looks at you.
 
-[🔗 View Project](https://github.com/soumyakantabera/GS-Operations-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-goldman-sachs-operations)
 
 </td>
 </tr>
@@ -276,7 +276,7 @@ Streamlined wealth management ops for 3 client segments. Resolved 28 settlement 
 
 Full profitability analysis on the Copier Co. case. Hypothesis-driven market synthesis → 3 structured strategic recommendations → executive-style presentation to a simulated C-suite. Consulting is just finance with more PowerPoint slides and fancier frameworks.
 
-[🔗 View Project](https://github.com/soumyakantabera/BCG-Strategy-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-bcg-strategy-consulting)
 
 </td>
 </tr>
@@ -290,7 +290,7 @@ Full profitability analysis on the Copier Co. case. Hypothesis-driven market syn
 
 AI-driven risk advisory analysis across 6 processes. Identified 9 compliance gaps. Presented data-driven remediation recommendations. Because "we should probably fix that" sounds better with a chart attached.
 
-[🔗 View Project](https://github.com/soumyakantabera/KPMG-Advisory-Forage)
+[🔗 View Project](https://github.com/soumyakantabera/theforage-kpmg-advisory)
 
 </td>
 </tr>

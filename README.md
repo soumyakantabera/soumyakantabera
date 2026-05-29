@@ -25,7 +25,7 @@ MSc Finance & Risk Management candidate who went from reading balance sheets in 
 
 I build DCF models, not apps. I debug P&L variances, not code. I speak fluent Excel, conversational Python, and survival Italian.
 
-**Currently looking for:** Finance Analyst · FP&A · Data Analyst · BI Analyst · Risk Analyst roles in 🇳🇱 Netherlands · 🇮🇪 Ireland · 🇪🇺 EU
+**Currently looking for:** Financial Analyst · FP&A · Data Analyst · BI Analyst · Risk Analyst roles in Italia 🇮🇹
 
 ---
 

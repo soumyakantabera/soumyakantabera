@@ -378,7 +378,7 @@ If that sentence excited you, we should probably talk. *Expected: July 2026*
 
 ### Let's talk
 
-If you're hiring Finance · FP&A · Data · BI · Risk talent for a **project, internship, or full-time role** — especially in 🇳🇱 or 🇮🇪 — I'd love to hear from you.
+If you're hiring Finance · FP&A · Data · BI · Risk talent for a **project, internship, or full-time role** in 🇮🇹 — I'd love to hear from you.
 
 Also available for unreasonable conversations about inventory cycles and working-capital traps.
 
